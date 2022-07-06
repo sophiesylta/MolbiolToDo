@@ -1,0 +1,13 @@
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/bin/Debug/netcoreapp3.1/MolbiolToDoModel.deps.json
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/bin/Debug/netcoreapp3.1/MolbiolToDoModel.runtimeconfig.json
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/bin/Debug/netcoreapp3.1/MolbiolToDoModel.runtimeconfig.dev.json
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/bin/Debug/netcoreapp3.1/MolbiolToDoModel.dll
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/bin/Debug/netcoreapp3.1/MolbiolToDoModel.pdb
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/obj/Debug/netcoreapp3.1/MolbiolToDoModel.csproj.AssemblyReference.cache
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/obj/Debug/netcoreapp3.1/MolbiolToDoModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/obj/Debug/netcoreapp3.1/MolbiolToDoModel.AssemblyInfoInputs.cache
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/obj/Debug/netcoreapp3.1/MolbiolToDoModel.AssemblyInfo.cs
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/obj/Debug/netcoreapp3.1/MolbiolToDoModel.csproj.CoreCompileInputs.cache
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/obj/Debug/netcoreapp3.1/MolbiolToDoModel.dll
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/obj/Debug/netcoreapp3.1/MolbiolToDoModel.pdb
+/Users/sophie/Projects/MolbiolToDo/MolbiolToDoModel/obj/Debug/netcoreapp3.1/MolbiolToDoModel.genruntimeconfig.cache
