@@ -1,20 +1,25 @@
-﻿<Properties StartupConfiguration="{AE2FF312-6F00-45FD-A428-C8CF898883B7}|Default">
+﻿<Properties StartupConfiguration="{859A9BBA-3E61-44FD-9236-9D361B8514E9}|Default">
   <MonoDevelop.Ide.ItemProperties.MolbiolToDoWebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MolbiolToDoModel/Messages.cs">
+  <MonoDevelop.Ide.ItemProperties.MolbiolToDoWebAppMVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="MolbiolToDoModel/Program.cs" Line="16" Column="43" />
       <File FileName="MolbiolToDoModel/Station.cs" />
       <File FileName="MolbiolToDoModel/Task.cs" />
-      <File FileName="MolbiolToDoModel/Messages.cs" Line="1" Column="1" />
+      <File FileName="MolbiolToDoModel/Messages.cs" />
+      <File FileName="MolbiolToDoWebAppMVC/Controllers/HomeController.cs" Line="22" Column="10" />
+      <File FileName="MolbiolToDoWebAppMVC/Program.cs" />
+      <File FileName="MolbiolToDoWebAppMVC/Startup.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MolbiolToDo" expanded="True">
-            <Node name="MolbiolToDoModel" expanded="True">
-              <Node name="Messages.cs" selected="True" />
-            </Node>
+            <Node name="MolbiolToDoModel" expanded="True" selected="True" />
             <Node name="MolbiolToDoWebApp" expanded="True" />
+            <Node name="MolbiolToDoWebAppMVC" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
